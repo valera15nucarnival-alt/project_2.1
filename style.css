@@ -1,0 +1,28 @@
+@import url(
+"https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+body {
+    font-family: "Roboto Mono", monospace;
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.message-container {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px gainsboro;
+    width: 100%;
+    max-width: 400px;
+}
+
+
+.message-text {
+    font-weight: bold;
+    color: green;
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
