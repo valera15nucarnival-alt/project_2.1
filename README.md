@@ -1,3 +1,3 @@
 <h1> Вебзастосування "Привіт, мій друже!" </h1>
 <p> Вебзастосування дає змогу вивести привітальне повідомлення "Привіт, мій друже!" по центру екрану. Вебзастосування створено за допомогою НТМL і CSS.</p>
-<p> Переглянути вебзастосування можна за гіперпосиланням: <a href="https://valera15nucarnival-alt.github.io/"> \https://valera15nucarnival-alt.github.io/ </a> </p>
+<p> Переглянути вебзастосування можна за гіперпосиланням: <a href="https://valera15nucarnival-alt.github.io/"> https://valera15nucarnival-alt.github.io/ </a> </p>
